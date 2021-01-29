@@ -52,4 +52,3 @@ completedList.addEventListener("click", (event)=>{
     todos.find((todo) => todo.id === event.target.id).status = "pending";
     showTodos();
 });
-//dfdf
