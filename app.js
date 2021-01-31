@@ -1,6 +1,5 @@
 const todos = [];
 
-
 const get = (elements) =>
   elements.map((element) => document.getElementById(element));
 
